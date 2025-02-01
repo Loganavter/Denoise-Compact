@@ -14,3 +14,6 @@ A collection of Real-ESRGAN Compact models based on a custom dataset, for automa
 1. Install ChaiNNer
 2. Load via "load module python"
 3. Running
+
+My contacts:
+Telegram: @контактыплиз - вопросы по denoise > 
