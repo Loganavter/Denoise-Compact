@@ -16,4 +16,5 @@ A collection of Real-ESRGAN Compact models based on a custom dataset, for automa
 3. Running
 
 My contacts:
-Telegram: @контактыплиз - вопросы по denoise > 
+Habr: [Realife](https://habr.com/ru/users/Realife/)
+Telegram Channel: [@Realifeeeeeee](https://t.me/Realifeeeeeee)
