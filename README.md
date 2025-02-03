@@ -16,5 +16,5 @@ A collection of Real-ESRGAN Compact models based on a custom dataset, for automa
 3. Running
 
 My contacts:
-Habr: [Realife](https://habr.com/ru/users/Realife/)
-Telegram Channel: [@Realifeeeeeee](https://t.me/Realifeeeeeee)
+[Habr](https://habr.com/ru/users/Realife/): Realife
+[Telegram Channel](https://t.me/Realifeeeeeee): @Realifeeeeeee
